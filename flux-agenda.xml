@@ -166,6 +166,8 @@ Sur réservation : 03 26 84 78 67 &#8211; <a href="mailto:mediatheque@ville-tinq
 		
 		
 			<media:content url="https://ville-tinqueux.fr/wp-content/uploads/2020/05/HDC-petitpoucet-1024x521.jpg" medium="image" />
-<image><url>https://ville-tinqueux.fr/wp-content/uploads/2020/05/HDC-petitpoucet.jpg</url><format-paysage>https://ville-tinqueux.fr/wp-content/uploads/2020/05/HDC-petitpoucet-360x183.jpg</format-paysage></image><category>CARRE BLANC</category><ev:startdate xmlns:ev="http://www.w3.org/2001/XMLSchema-instance">Wed, 19 May 2021 10:30:00 +0000</ev:startdate><ev:enddate xmlns:ev="http://www.w3.org/2001/XMLSchema-instance">Wed, 19 May 2021 11:15:00 +0000</ev:enddate>	</item>
+<image><url>https://ville-tinqueux.fr/wp-content/uploads/2020/05/HDC-petitpoucet.jpg</url><format-paysage>https://ville-tinqueux.fr/wp-content/uploads/2020/05/HDC-petitpoucet-360x183.jpg</format-paysage></image><category>CARRE BLANC</category><ev:startdate xmlns:ev="http://www.w3.org/2001/XMLSchema-instance">Wed, 19 May 2021 10:30:00 +0000</ev:startdate><ev:enddate xmlns:ev="http://www.w3.org/2001/XMLSchema-instance">Wed, 19 May 2021 11:15:00 +0000</ev:enddate>	
+	<ev:isPinned>True</ev:isPinned>
+	</item>
 	</channel>
 </rss>
